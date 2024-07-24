@@ -1,0 +1,26 @@
+domain: blog.osandov.com
+url: https://blog.osandov.com
+title: Omar Sandoval's Blog
+author: Omar Sandoval
+email: osandov@osandov.com
+description: Systems programming and computer magick
+favicon: favicon.ico
+
+moving:
+  avatar_url: /assets/avatar.jpg
+  about_you: Software engineer and open-source hacker
+  date_format: "%b %d"
+  back_to: Omar Sandoval's Blog
+
+  social_links:
+    github: osandov
+    rss: RSS
+    mastodon:
+    - username: osandov
+      instance: fosstodon.org
+
+remote_theme: osandov/moving
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
