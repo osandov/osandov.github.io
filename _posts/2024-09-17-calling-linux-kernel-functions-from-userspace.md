@@ -47,7 +47,7 @@ static int __init kmodify_init(void)
 {
         struct {
                 unsigned char arg0[17];
-                typeof(int) ret;
+                int ret;
         } out = {
                 .arg0 = { 0x48, 0x65, 0x6c, 0x6c, 0x6f, 0x2c,
                           0x20, 0x77, 0x6f, 0x72, 0x6c, 0x64,
