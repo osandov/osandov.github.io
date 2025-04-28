@@ -17,7 +17,7 @@ moving:
     rss: RSS
     mastodon:
     - username: osandov
-      instance: fosstodon.org
+      instance: social.kernel.org
 
 remote_theme: osandov/moving
 
