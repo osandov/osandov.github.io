@@ -15,7 +15,7 @@ moving:
   social_links:
     github: osandov
     rss: RSS
-    mastodon:
+    fediverse:
     - username: osandov
       instance: social.kernel.org
 
